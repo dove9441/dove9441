@@ -1,7 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongju%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome!&descAlignY=51&descAlign=62)
----
-I am Dongju Choi, undergrade student in SEOULTECH, [department of computer engineering](https://computer.seoultech.ac.kr).
-welcome to my github! :wave:
----
-<!-- capsule rander used from https://github.com/kyechan99/capsule-render/blob/master/README.md -->
-
+# hello world!
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dove386)](https://solved.ac/dove386/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongdowny&langs_count=10&layout=compact&theme=default)](https://github.com/dove9441/dove9441)﻿
